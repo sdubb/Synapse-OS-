@@ -8,7 +8,7 @@ Download [`Synapse-0.0.49-Windows-Setup.exe`](./Synapse-0.0.49-Windows-Setup.exe
 
 ## macOS
 
-A signed macOS installer is not published yet. Use the source repository and follow its macOS development instructions until a release is available.
+Run the **Build Synapse macOS installer** workflow in the [source repository](https://github.com/sdubb/syn/actions/workflows/synapse-macos-build.yml). It produces a universal `.dmg` artifact for Apple Silicon and Intel. The current build is unsigned; sign and notarize it with Apple Developer credentials before public distribution.
 
 ## Linux
 
