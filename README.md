@@ -4,7 +4,7 @@ This repository contains Synapse OS installer files only. The source code and de
 
 ## Windows
 
-Download `Synapse-0.0.49-Windows-Setup.exe`, run the installer and launch Synapse. Configure a model provider on first use.
+Download [`Synapse-0.0.49-Windows-Setup.exe`](./Synapse-0.0.49-Windows-Setup.exe), run the installer and launch Synapse. Configure a model provider on first use.
 
 ## macOS
 
